@@ -8,6 +8,7 @@ Modules to be used:
 •	react-native-vector-icons - icons
 •	react-native-swiper-flatlist - text slider
 •	lodash - create arrays from objects
+
 src- contains all the components
 src/actions - actions
 src/reducers - various states states
