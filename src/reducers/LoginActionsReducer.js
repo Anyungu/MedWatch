@@ -1,4 +1,6 @@
 
+//Reducer for logging in Action. updates states in the login procedure.
+//states: loading => spinner purposes
 
 import {TYPEDVALUE, LOGGINGINUSER, LOGINFAIL, LOGINSUCCESS} from '../actions/types';
 
