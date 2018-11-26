@@ -1,4 +1,4 @@
-# MedWatch
+# MedWatch React Native Android
 
 Modules to be used:
 •	Axios - http requests
