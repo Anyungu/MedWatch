@@ -1,4 +1,6 @@
 
+// Reducer for actions called during Registration
+
 import {TYPEDVALUE, REGISTERINGUSER, REGISTERSUCCESS, REGISTERFAIL} from '../actions/types';
 
 const INITIAL = { name:'', email: '', password: '', confirm:'', loading:false, user:null, error:'' };
