@@ -1,3 +1,5 @@
+//App starts here
+
 import React, {Component} from 'react';
 import firebase from 'firebase';
 import {createStore , applyMiddleware} from 'redux';
