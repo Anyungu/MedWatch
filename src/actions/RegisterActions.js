@@ -1,3 +1,4 @@
+//Actions called during registering
 
 import firebase from 'firebase';
 import {Actions} from 'react-native-router-flux';
